@@ -1,0 +1,67 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Olives Resort - Wayanad
+
+## Skin
+
+### Tooltip
+IconButton_069AFCF9_1C9E_98F8_41AA_EDF2EF9939E8.toolTip = Show all buttons
+IconButton_11F8C692_1C82_6B0B_41B2_28931AB2B43D.toolTip = Previous panorama
+IconButton_128B7B91_1C86_7909_41B8_9320D8E0D421.toolTip = Next panorama
+IconButton_128BCB90_1C86_7907_41B3_46B5B135C181.toolTip = Hide all buttons
+IconButton_1297FF98_1C82_9907_41AD_A09E1EA44354.toolTip = Panorama List
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_3BD6FE66_1C9E_9B08_41AE_65363919CAD0.toolTip = Previous panorama
+IconButton_3BF02F26_1C9E_990B_419B_60D4788D76C9.toolTip = Next panorama
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1.toolTip = Photo Album
+IconButton_947134C4_BDC5_71C9_41D9_FCDAA48E54E1_mobile.toolTip = Photo Album
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_9EB4A5DC_92FA_6347_41C1_C22CA6E5632D.label = Olives
+album_9EB4A5DC_92FA_6347_41C1_C22CA6E5632D_0.label = _NFR8928
+album_9EB4A5DC_92FA_6347_41C1_C22CA6E5632D_1.label = _NFR8934
+album_9EB4A5DC_92FA_6347_41C1_C22CA6E5632D_10.label = Olives premium suite
+album_9EB4A5DC_92FA_6347_41C1_C22CA6E5632D_11.label = Wayanadan Thattukada
+album_9EB4A5DC_92FA_6347_41C1_C22CA6E5632D_2.label = _NFR8941
+album_9EB4A5DC_92FA_6347_41C1_C22CA6E5632D_3.label = _NFR8943
+album_9EB4A5DC_92FA_6347_41C1_C22CA6E5632D_4.label = _NFR8967(3)
+album_9EB4A5DC_92FA_6347_41C1_C22CA6E5632D_5.label = _NFR9002
+album_9EB4A5DC_92FA_6347_41C1_C22CA6E5632D_6.label = _NFR9011
+album_9EB4A5DC_92FA_6347_41C1_C22CA6E5632D_7.label = _NFR9033
+album_9EB4A5DC_92FA_6347_41C1_C22CA6E5632D_8.label = _NFR9306(1)
+album_9EB4A5DC_92FA_6347_41C1_C22CA6E5632D_9.label = olives luxury suite
+panorama_864E4597_8D77_D557_4180_7BDD9282019E.label = Resort Facade
+panorama_8727C611_8D77_F72B_41D0_516F3B22D0C5.label = Reception Area
+panorama_87384DBE_8D77_7559_41DD_05BF35069ECA.label = Swimming Pool
+panorama_87388ED3_8D77_572F_414E_748664373C2A.label = Outdoor Games Area
+panorama_87389CE7_8D77_54F7_41BB_33AF73680D53.label = Balcony - Premium Suite
+panorama_8738A040_8D77_AB29_41C1_C0A5BB73E61D.label = Way to Pool/Dining area
+panorama_8738C401_8D77_EB2B_41E0_F59E855C06AB.label = Open air Dining Area
+panorama_8738F1DE_8D77_ACD9_41BD_F3FDBDDA35A8.label = Dining Area
+panorama_8739445F_8D76_EBD7_41DF_BF1A8678E73A.label = Luxury Suite
+panorama_87394810_8D76_DB29_41D7_F0978C10F131.label = Washroom - Premium Suite
+panorama_87398271_8D76_AFEB_41D1_F411C62FB51E.label = Washroom - Luxury Suite
+panorama_87399661_8D76_F7EB_41CA_E7620D6BFB0D.label = Luxury Suite
+panorama_8739AAA7_8D76_BF77_41A6_CB2968B444CA.label = Premium Suite
+
+## Hotspot
+
+### Tooltip
+HotspotPanoramaOverlayArea_A53FFA55_8D8B_5F2B_41DA_0E29AD7337ED.toolTip = Bedroom
+HotspotPanoramaOverlayArea_A5DB5256_8D8D_6F29_419D_782E61FF4E1B.toolTip = Washroom
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = https://www.olivesresort.in
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = https://www.olivesresort.in
